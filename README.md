@@ -36,7 +36,6 @@ Nodejs, JavaScript, HTML, CSS, Reactjs, Redux, PostgreSQL, Material UI, Figma (f
 
 ```
    SERVER_SESSION_SECRET=superDuperSecret
-   CLOUDINARY_URL=
    CLOUDINARY_CLOUD_NAME=
    CLOUDINARY_API_KEY=
    CLOUDINARY_API_SECRET=

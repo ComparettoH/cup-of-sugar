@@ -64,5 +64,5 @@ Nodejs, JavaScript, HTML, CSS, Reactjs, Redux, PostgreSQL, Material UI, Figma (f
 
 
 ## Acknowledgement
-Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped us to make this application a reality. 
+Thanks to [Prime Digital Academy](https://www.primeacademy.io/) who equipped and helped us to make this application a reality. 
 

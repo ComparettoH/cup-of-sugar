@@ -9,7 +9,7 @@ U.S. households let a significant amount of food go to waste, and there is a gen
 
 Cup of Sugar is a food-sharing prototype for a small-scale community such an an apartment building or condominium complex. The app streamlines the process of offering up the food that you can't use and requesting the food that you need. It contains an activity feed that allows you to see the food sharing activity in your community, as well as a group page with neighbor's user profiles to help strengthen community connections. 
 
-To see the fully functional site, please visit: [DEPLOYED VERSION OF APP](www.heroku.com)
+To see the fully functional site, please visit: [Cup of Sugar](https://cup-of-sugar-04f2e395958a.herokuapp.com)
 
 ## Screen Shot
 <img width="200" alt="homescreenpng" src="https://github.com/ComparettoH/cup-of-sugar/assets/116385698/eb09db40-a5dc-42fe-8507-2cf9d60e47f8">
